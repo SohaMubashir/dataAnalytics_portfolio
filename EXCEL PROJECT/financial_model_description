@@ -1,19 +1,17 @@
-The complete financial model contains the inputs, processing logic, and output statements.
+The complete financial model contains the inputs, processing logic, and output state
 
-## 🛠 Tools & Techniques
-- **Microsoft Excel (Advanced)**
-- **Financial Modeling:** 3-Statement Integration (Income Statement, Balance Sheet, Cash Flow).
-- **Forecasting:** Assumption-driven revenue and expense logic.
-- **Data Validation:** Logical constraints to ensure model integrity.
-- **KPI Analysis:** Automated calculation of Burn Rate, Runway, and EBITDA.
+🛠 Tools & Techniques
+- Microsoft Excel (Advanced)
+- Financial Modeling: 3-Statement Integration (Income Statement, Balance Sheet, Cash Flow).
+- Forecasting: Assumption-driven revenue and expense logic.
+- Data Validation: Logical constraints to ensure model integrity.
 
-## 📊 Key Features
-- **Assumption Engine:** A dedicated input section for variable drivers (Pricing, Unit Sales, Churn, COGS, Operating Expenses).
-- **Integrated Statements:** Changes in assumptions automatically flow through to the Income Statement, Balance Sheet, and Cash Flow Statement.
-- **Visual Dashboard:** [Optional: Mention if you added charts] Visual representations of revenue growth and cash depletion.
-- **Scenario Planning:** Structured to allow for "What-If" analysis (Base Case vs. Growth Case).
 
-## 🚀 How to Use
-1. Download the `.xlsx` file.
-2. Navigate to the **"Assumptions"** or **"Inputs"** tab.
-3. Adjust the drivers (e.g., modify *Price per Unit* or *Marketing Budget*) to see how changes impact the Net Income and Cash Balance in real-time.
+📊 Key Features
+- Assumption Engine: A dedicated input section for variable drivers (Pricing, Unit Sales, Churn, COGS, Operating Expenses).
+- Integrated Statements: Changes in assumptions automatically flow through to the Income Statement, Balance Sheet, and Cash Flow Statement.
+
+
+1. Download the .xlsx file.
+2. Navigate to the "Assumptions" or "Inputs" tab.
+3. Adjust the drivers like modify "Price per Unit" or "Marketing Budget," to see how changes impact the Net Income and Cash Balance in real-time.
